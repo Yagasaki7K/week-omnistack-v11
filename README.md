@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/Yagasakii/weekOmniStack11.0/blob/master/frontend/src/assets/logo.svg" width="250px" />
 </h1>
-<center>A Omnistack V11 Edition by Rocketseat</center>
+<h3 align="center">A Omnistack V11 Edition by Rocketseat</h3>
 
 ## Technologies
 - <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Nodejs</a> + <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">Express</a>
