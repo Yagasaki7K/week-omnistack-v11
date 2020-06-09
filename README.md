@@ -20,7 +20,7 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/Yagasakii/weekOmniStack11.0
+$ git clone https://github.com/Yagasakii/week-omnistack-v11.git
 
 # Go into the repository
 $ cd weekOmnistack11/backend
