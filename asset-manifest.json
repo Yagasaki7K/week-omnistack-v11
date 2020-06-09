@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/week-omnistack-v11/static/css/main.1a86ad08.chunk.css",
+    "main.js": "/week-omnistack-v11/static/js/main.60d079ac.chunk.js",
+    "main.js.map": "/week-omnistack-v11/static/js/main.60d079ac.chunk.js.map",
+    "runtime-main.js": "/week-omnistack-v11/static/js/runtime-main.8596d23f.js",
+    "runtime-main.js.map": "/week-omnistack-v11/static/js/runtime-main.8596d23f.js.map",
+    "static/js/2.f94c7e24.chunk.js": "/week-omnistack-v11/static/js/2.f94c7e24.chunk.js",
+    "static/js/2.f94c7e24.chunk.js.map": "/week-omnistack-v11/static/js/2.f94c7e24.chunk.js.map",
+    "index.html": "/week-omnistack-v11/index.html",
+    "precache-manifest.44b0bda1ab86125e2c7098af6e94c93d.js": "/week-omnistack-v11/precache-manifest.44b0bda1ab86125e2c7098af6e94c93d.js",
+    "service-worker.js": "/week-omnistack-v11/service-worker.js",
+    "static/css/main.1a86ad08.chunk.css.map": "/week-omnistack-v11/static/css/main.1a86ad08.chunk.css.map",
+    "static/js/2.f94c7e24.chunk.js.LICENSE.txt": "/week-omnistack-v11/static/js/2.f94c7e24.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/week-omnistack-v11/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/week-omnistack-v11/static/media/logo.62e865e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8596d23f.js",
+    "static/js/2.f94c7e24.chunk.js",
+    "static/css/main.1a86ad08.chunk.css",
+    "static/js/main.60d079ac.chunk.js"
+  ]
+}
