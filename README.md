@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/Yagasakii/weekOmniStack11.0/blob/master/frontend/src/assets/logo.svg" width="250px" />
 </h1>
-<h3 align="center">A Omnistack V11 Edition by Rocketseat <br>
+<h3 align="center">A Omnistack V11 Edition by Rocketseat <br><br>
 
 [![Yagasaki](https://img.shields.io/badge/Yagasaki-WeekOmnistack-E02041)](https://github.com/Yagasaki7K/webessentials/)
 [![Version](https://img.shields.io/badge/Version-2020-brightgreen)](https://github.com/Yagasaki7K/webessentials/)
