@@ -3,8 +3,8 @@
 </h1>
 <h3 align="center">A Omnistack V11 Edition by Rocketseat <br><br>
 
-[![Yagasaki](https://img.shields.io/badge/Yagasaki-WeekOmnistack-E02041)](https://github.com/Yagasaki7K/webessentials/)
-[![Version](https://img.shields.io/badge/Version-2020-brightgreen)](https://github.com/Yagasaki7K/webessentials/)
+[![Yagasaki](https://img.shields.io/badge/Yagasaki-WeekOmnistack-E02041)](https://github.com/Yagasaki7K/week-omnistack-v11/)
+[![Version](https://img.shields.io/badge/Version-2020-brightgreen)](https://github.com/Yagasaki7K/week-omnistack-v11/)
 [![Paypal donate](https://img.shields.io/badge/Paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BGK9ZCFE6G4C8&currency_code=BRL&source=url)<br>
 [![GitHub license](https://img.shields.io/github/license/Yagasaki7K/week-omnistack-v11)](https://github.com/Yagasaki7K/week-omnistack-v11/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/Yagasaki7K/week-omnistack-v11)](https://github.com/Yagasaki7K/week-omnistack-v11/network)
